@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @HaroldVemeno
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning nothing because of school
+- 👋 Hi, I’m @HaroldVemeno 
 
 <!---
 HaroldVemeno/HaroldVemeno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
